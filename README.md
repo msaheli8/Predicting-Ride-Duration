@@ -1,1 +1,2 @@
-# Predicting-Ride-Duration
+# Predicting Ride Duration using MLflow 
+This is a practice project.
