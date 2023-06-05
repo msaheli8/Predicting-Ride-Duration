@@ -1,4 +1,21 @@
+# Editors
+.idea/
+.vscode/
+.tmp/
+
+# MacOS
 .DS_Store
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Logs
 .log
-.pyc
-.db
+
+# Byte-compiled / optimized / DLL files
+*__pycache__/*
+
+#Mlflow
+*mlruns*
+*models*
+*.db
